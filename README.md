@@ -20,7 +20,7 @@ Table of Contents:
 15. Save Results for Grading
 
 
-1. Installation
+Installation
 
 First, clone the TensorFlow Model Garden and install the TensorFlow Object Detection API.
 

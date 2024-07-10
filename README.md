@@ -19,6 +19,7 @@ Table of Contents:
 14. Preprocess, Predict, and Post-process
 15. Save Results for Grading
 
+
 1. Installation
 First, clone the TensorFlow Model Garden and install the TensorFlow Object Detection API.
 

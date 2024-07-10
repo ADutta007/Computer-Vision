@@ -21,6 +21,7 @@ Table of Contents:
 
 
 1. Installation
+
 First, clone the TensorFlow Model Garden and install the TensorFlow Object Detection API.
 
 !rm -rf ./models/
